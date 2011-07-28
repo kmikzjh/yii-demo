@@ -1,0 +1,11 @@
+php_extensions:
+    - dom
+    - pdo
+    - pdo_sqlite
+    - pdo_mysql
+    - apc
+    - mcrypt
+    - soap
+    - gd
+    
+document_root: /demos/blog
