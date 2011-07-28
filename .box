@@ -9,3 +9,6 @@ php_extensions:
     - gd
     
 document_root: /demos/blog
+
+shared_writable_dirs:
+    - /protected/runtime
