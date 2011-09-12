@@ -12,3 +12,4 @@ document_root: /demos/blog
 
 shared_writable_dirs:
     - /demos/blog/protected/runtime
+    - /demos/blog/assets
