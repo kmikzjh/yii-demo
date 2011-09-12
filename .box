@@ -11,4 +11,4 @@ php_extensions:
 document_root: /demos/blog
 
 shared_writable_dirs:
-    - /protected/runtime
+    - /demos/blog/protected/runtime
