@@ -8,6 +8,7 @@ web1:
       - mcrypt
       - soap
       - gd
+	  - freetype_php
   document_root: /demos/blog
 
   shared_writable_dirs:
