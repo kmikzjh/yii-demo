@@ -1,4 +1,5 @@
 <?php
+echo "hi";
 phpinfo();
 exit();
 // change the following paths if necessary
