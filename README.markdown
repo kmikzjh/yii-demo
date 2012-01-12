@@ -1,20 +1,20 @@
 # BOXFILE SAMPLE #
 
-  web1:
-    php_extensions:
-      - dom
-      - pdo
-      - pdo_sqlite
-      - pdo_mysql
-      - apc
-      - mcrypt
-      - soap
-      - gd
-      - freetype
-    document_root: /demos/blog
-    shared_writable_dirs:
-      - /demos/blog/protected/runtime
-      - /demos/blog/assets
+    web1:
+      php_extensions:
+        - dom
+        - pdo
+        - pdo_sqlite
+        - pdo_mysql
+        - apc
+        - mcrypt
+        - soap
+        - gd
+        - freetype
+      document_root: /demos/blog
+      shared_writable_dirs:
+        - /demos/blog/protected/runtime
+        - /demos/blog/assets
 
 
 # DATABASE CONNECTION EXAMPLE #
