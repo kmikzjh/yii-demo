@@ -22,6 +22,7 @@ We suggest configuring your application to use different database settings depen
 
 You'll need to create an [environment variable](http://help.pagodabox.com/customer/portal/articles/175470) to specify the platform. We recommend PLATFORM = PAGODABOX.
 
+(Note, replace the actual server name / username / password with your own)
 
 
     if (isset($_SERVER['PLATFORM']) && $_SERVER['PLATFORM'] == 'PAGODABOX'){
